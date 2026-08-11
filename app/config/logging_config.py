@@ -1,4 +1,4 @@
-# logging_config.py
+# app/config/logging_config.py
 import logging
 
 logging.basicConfig(
